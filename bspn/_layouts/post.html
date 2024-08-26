@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">
+      Published on {{ page.date | date: "%B %d, %Y" }} by {{ page.author }}
+    </p>
+  </header>
+
+  <div class="post-content">{{ content }}</div>
+
+  <footer class="post-footer">
+    <p>
+      Filed under: {% for category in page.categories %}
+      <a href="/categories/{{ category | downcase }}">{{ category }}</a>{% if
+      forloop.last == false %}, {% endif %} {% endfor %}
+    </p>
+    <p>
+      Tags: {% for tag in page.tags %}
+      <a href="/tags/{{ tag | downcase }}">{{ tag }}</a>{% if forloop.last ==
+      false %}, {% endif %} {% endfor %}
+    </p>
+  </footer>
+</article>

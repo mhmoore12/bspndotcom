@@ -1,0 +1,568 @@
+/* Reset some default styles */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+li,
+a {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+/* General body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+/* Navigation */
+/* Navbar Styling */
+header {
+  background-color: #333;
+  padding: 10px 0;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px; /* Adds space between menu items */
+}
+
+nav ul li {
+  margin: 0;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 15px;
+  display: block;
+  transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+  background-color: #555;
+  border-radius: 4px;
+}
+
+/* Main content area */
+.main-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+/* Left column (for articles) */
+.left-column {
+  width: 70%;
+}
+
+.left-column h2 {
+  font-size: 1.8em;
+  border-bottom: 3px solid #333;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.left-column article {
+  margin-bottom: 20px;
+}
+
+.left-column article img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.left-column article h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.left-column article p {
+  font-size: 1em;
+  line-height: 1.8;
+  color: #666;
+}
+
+/* Sidebar (Right column) */
+.sidebar {
+  width: 25%;
+  padding: 10px;
+}
+
+.sidebar h2 {
+  font-size: 1.5em;
+  border-bottom: 2px solid #333;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+.sidebar ul {
+  margin-bottom: 20px;
+}
+
+.sidebar ul li {
+  margin-bottom: 10px;
+}
+
+.sidebar ul li a {
+  font-size: 1em;
+  color: #333;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.sidebar ul li a:hover {
+  color: #ffcc00;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 20px;
+}
+
+footer p {
+  font-size: 0.9em;
+}
+
+/* Hero Section (Top story) */
+.hero {
+  position: relative;
+  background-color: #fff;
+  margin-bottom: 20px;
+}
+
+.hero img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.hero .hero-text {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.hero .hero-text h2 {
+  font-size: 2.2em;
+  margin-bottom: 5px;
+}
+
+.hero .hero-text p {
+  font-size: 1.1em;
+}
+
+/* Highlights Section */
+.highlights {
+  margin-top: 20px;
+}
+
+.highlights h2 {
+  font-size: 1.8em;
+  border-bottom: 3px solid #333;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+.highlights img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.highlights h3 {
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+.highlights p {
+  font-size: 1em;
+  line-height: 1.8;
+  color: #666;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .main-content {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .left-column,
+  .sidebar {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .hero .hero-text {
+    bottom: 10px;
+    left: 10px;
+    padding: 5px;
+  }
+}
+
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 1.8em;
+  }
+
+  nav a {
+    font-size: 0.8em;
+  }
+
+  .hero .hero-text h2 {
+    font-size: 1.8em;
+  }
+
+  .highlights h2 {
+    font-size: 1.5em;
+  }
+}
+
+.teamlogo {
+  max-height: 20px;
+  max-width: 20px;
+  margin: 0px;
+  vertical-align: middle; /* align with text */
+  margin-right: 5px; /* space between logo and text */
+}
+.headshot {
+  max-width: 100px; /* or any desired width */
+  max-height: 100px; /* or any desired width */
+  height: auto; /* maintain aspect ratio */
+  border-radius: 10%;
+  border: 2px solid #ddd; /* add a border, optional */
+  display: block; /* center the image */
+  margin: 0 auto; /* add auto margin */
+}
+
+/* General Post Styling */
+.post {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Post Header */
+.post-header {
+  border-bottom: 2px solid #ddd;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+/* Post Title */
+.post-title {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.post-title a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+.post-title a:hover {
+  color: #ffcc00;
+}
+
+/* Post Metadata */
+.post-meta {
+  font-size: 0.9em;
+  color: #777;
+  margin-bottom: 20px;
+}
+
+.post-meta span {
+  margin-right: 15px;
+}
+
+.post-meta .author {
+  font-weight: bold;
+}
+
+.post-meta .date {
+  font-style: italic;
+}
+
+/* Post Content */
+.post-content {
+  font-size: 1.1em;
+  line-height: 1.8;
+  color: #444;
+}
+
+.post-content p {
+  margin-bottom: 20px;
+}
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+
+/* Post Footer */
+.post-footer {
+  border-top: 2px solid #ddd;
+  margin-top: 20px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.post-footer a {
+  font-size: 1em;
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.post-footer a:hover {
+  color: #ffcc00;
+}
+
+/* Excerpt Styling */
+.excerpt {
+  font-size: 1.2em;
+  color: #555;
+  margin-bottom: 20px;
+  font-style: italic;
+}
+
+/* Blockquote Styling */
+blockquote {
+  border-left: 4px solid #ffcc00;
+  margin: 20px 0;
+  padding-left: 15px;
+  font-style: italic;
+  color: #666;
+}
+
+/* Read More Button */
+.read-more {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #ffcc00;
+  color: #333;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.read-more:hover {
+  background-color: #e6b800;
+}
+
+/* Categories Section */
+.categories {
+  list-style: none;
+  padding: 0;
+}
+
+.categories li {
+  margin-bottom: 15px;
+}
+
+.categories li a {
+  color: #333;
+  font-weight: bold;
+  font-size: 1.1em;
+  transition: color 0.3s ease;
+}
+
+.categories li a:hover {
+  color: #ffcc00;
+}
+
+/* Sidebar Styling (No changes needed here unless you want specific changes) */
+.sidebar {
+  width: 25%;
+  padding-left: 20px;
+}
+
+.section-title {
+  font-size: 1.8em;
+  border-bottom: 3px solid #333;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+/* Parallax Hero Image */
+/* Parallax Hero Image */
+.hero-image {
+  background-image: url("/assets/hero-image.webp");
+  height: 400px;
+  max-height: 400px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-text {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 15px 20px;
+  border-radius: 8px;
+}
+
+.hero-text h2 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.hero-text p {
+  font-size: 1.2em;
+}
+/* About Page */
+.about-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.about-page h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.about-page p {
+  font-size: 1.2em;
+  line-height: 1.8;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.about-page h2 {
+  font-size: 2em;
+  margin-bottom: 30px;
+  border-bottom: 2px solid #333;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.contributor {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.contributor img.headshot {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.contributor-info {
+  max-width: 900px;
+}
+
+.contributor-info h3 {
+  font-size: 1.8em;
+  margin-bottom: 10px;
+}
+
+.contributor-info p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  text-align: left;
+}
+
+.contributor-info p strong {
+  font-weight: bold;
+}
+
+/* Categories Page */
+.categories-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.categories-page h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.categories-page p {
+  font-size: 1.2em;
+  line-height: 1.8;
+  margin-bottom: 40px;
+}
+
+.categories-list {
+  list-style: none;
+  padding: 0;
+}
+
+.categories-list li {
+  display: inline-block;
+  margin: 10px 20px;
+}
+
+.categories-list li a {
+  font-size: 1.5em;
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.categories-list li a:hover {
+  color: #ffcc00;
+}
