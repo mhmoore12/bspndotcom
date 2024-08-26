@@ -13,7 +13,7 @@ title: "Home"
 <div class="main-content">
     <section class="latest-articles">
         <h2 class="section-title">Latest Articles</h2>
- {% for post in site.posts limit:10 %}
+ {% for post in site.posts limit:10000 %}
     
     <article class="post">
             <header class="post-header">
