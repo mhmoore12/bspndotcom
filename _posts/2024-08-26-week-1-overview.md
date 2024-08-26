@@ -20,6 +20,23 @@ excerpt: "Rusty Picklehorn gives you the ultimate rundown of all the Week 1 matc
 
 Week 1 is finally here, and I’m excited to kick off the Fantasy Footbug season with a comprehensive look at all the matchups on deck. Whether you’re a seasoned veteran or a fresh face in the league, understanding these early games is crucial. Let’s dive in and see what’s in store for each team.
 
+### **Analysts' Predictions**
+
+Our top analysts have weighed in with their score predictions for each Week 1 matchup. Here’s how they see the games playing out:
+
+{: .styled-table }
+| Matchup | Rusty Picklehorn | Mandy Greenberg | Chirpy Chip Taylor | Blaze Johnson |
+| --- | --- | --- | --- | --- |
+| stinkylizard's stinkiest team vs. intentionally left blank | stinkylizard's stinkiest team | stinkylizard's stinkiest team | stinkylizard's stinkiest team | intentionally left blank |
+| The Rebas vs. Sad Cowboy | The Rebas | The Rebas | The Rebas | The Rebas |
+| BBL Bread vs. Oops All Kickers! | BBL Bread | BBL Bread | BBL Bread | BBL Bread |
+| DOGSO Doggos vs. business boys | DOGSO Doggos | DOGSO Doggos | DOGSO Doggos | DOGSO Doggos |
+| CeeDee(z) Nutz vs. London Pugs | CeeDee(z) Nutz | CeeDee(z) Nutz | CeeDee(z) Nutz | CeeDee(z) Nutz |
+| Obstruction in Public ROW vs. Cam's Huge Little Guys | Obstruction in Public ROW | Obstruction in Public ROW | Obstruction in Public ROW | Obstruction in Public ROW |
+| Jacob's Scary Team vs. Tony Roma’s | Jacob's Scary Team | Jacob's Scary Team | Jacob's Scary Team | Jacob's Scary Team |
+| Chris's Cool Team vs. Bruce | Chris's Cool Team | Chris's Cool Team | Chris's Cool Team | Chris's Cool Team |
+| TBD vs. CSA | TBD | TBD | CSA | CSA |
+
 ### **Matchup 1: stinkylizard's stinkiest team vs. intentionally left blank**
 
 Our first matchup features _![stinkylizard's stinkiest team Logo](/bspndotcom/assets/images/team-logos/stinkylizard.svg){: .teamlogo } stinkylizard's stinkiest team_ going head-to-head with _![intentionally left blank Logo](/bspndotcom/assets/images/team-logos/intentionally.svg){: .teamlogo } intentionally left blank_. With both teams eager to start strong, this game could set the tone for the rest of the season. [Read the full analysis here.](/bspndotcom/stinkylizard's%20stinkiest%20team/intentionally%20left%20blank/week%201/pre-game%20analysis/2024/08/25/stinkylizards-vs-intentionally-left-blank.html)

@@ -557,7 +557,6 @@ blockquote {
 
 .categories-list li a {
   font-size: 1.5em;
-  color: #333;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s ease;
@@ -565,4 +564,44 @@ blockquote {
 
 .categories-list li a:hover {
   color: #ffcc00;
+}
+
+/* Styled Table */
+.styled-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 1.2em;
+  font-family: "Arial", sans-serif;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+  background-color: #333;
+  color: #ffffff;
+  text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+  padding: 12px 15px;
+  border: 1px solid #dddddd;
+}
+
+.styled-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+  border-bottom: 2px solid #333;
+}
+
+.styled-table tbody tr.active-row {
+  font-weight: bold;
+  color: #333;
 }
