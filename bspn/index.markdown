@@ -17,7 +17,7 @@ title: "Home"
     
     <article class="post">
             <header class="post-header">
-                <h1 class="post-title"><a href="{{post.url}}">{{post.title}}</a></h1>
+                <h1 class="post-title"><a href="/bspn-site{{post.url}}">{{post.title}}</a></h1>
                 <div class="post-meta">
                     <span class="author">Written by {{ post.author }}</span>
                     <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>

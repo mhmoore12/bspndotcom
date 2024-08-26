@@ -48,5 +48,5 @@ For _stinkylizard's stinkiest team_, keeping the pressure on with CeeDee Lamb is
 
 ---
 
-![Vinny DiMarco](/assets/images/contributors/vinny_dimarco.webp){: .headshot }
+![Vinny DiMarco](/bspn-site/assets/images/contributors/vinny_dimarco.webp){: .headshot }
 _Written by Vinny "The Voice" DiMarco, BSPN Senior Analyst._

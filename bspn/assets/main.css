@@ -437,7 +437,7 @@ blockquote {
 /* Parallax Hero Image */
 /* Parallax Hero Image */
 .hero-image {
-  background-image: url("/assets/hero-image.webp");
+  background-image: url("/bspn-site/assets/hero-image.webp");
   height: 400px;
   max-height: 400px;
   background-attachment: fixed;
