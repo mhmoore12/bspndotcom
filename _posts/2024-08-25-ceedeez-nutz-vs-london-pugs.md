@@ -17,20 +17,20 @@ excerpt: "Mandy Greenberg dives into the Week 1 matchup between *CeeDee(z) Nutz*
 
 ### **Matchup Overview**
 
-Week 1 continues with a showdown between ![CeeDee(z) Nutz Logo](/bspn-site/assets/images/team-logos/ceedee.svg){: .teamlogo } **CeeDee(z) Nutz** and ![London Pugs Logo](/bspn-site/assets/images/team-logos/londonpugs.svg){: .teamlogo } **London Pugs**, two teams with high expectations this season. Both sides are stacked with talent, making this a matchup to watch closely as it could set the tone for their campaigns.
+Week 1 continues with a showdown between ![CeeDee(z) Nutz Logo](/bspndotcom/assets/images/team-logos/ceedee.svg){: .teamlogo } **CeeDee(z) Nutz** and ![London Pugs Logo](/bspndotcom/assets/images/team-logos/londonpugs.svg){: .teamlogo } **London Pugs**, two teams with high expectations this season. Both sides are stacked with talent, making this a matchup to watch closely as it could set the tone for their campaigns.
 
 ### **Team Breakdown**
 
 **CeeDee(z) Nutz**:
 
 - **Key Players:** Derrick Henry, Mike Evans, Cooper Kupp
-- **Strengths:** ![CeeDee(z) Nutz Logo](/bspn-site/assets/images/team-logos/ceedee.svg){: .teamlogo } _CeeDee(z) Nutz_ is built around explosive offensive talent. Derrick Henry’s ability to dominate on the ground is complemented by the elite receiving skills of Mike Evans and Cooper Kupp. This team has the potential to put up big points in a hurry.
+- **Strengths:** ![CeeDee(z) Nutz Logo](/bspndotcom/assets/images/team-logos/ceedee.svg){: .teamlogo } _CeeDee(z) Nutz_ is built around explosive offensive talent. Derrick Henry’s ability to dominate on the ground is complemented by the elite receiving skills of Mike Evans and Cooper Kupp. This team has the potential to put up big points in a hurry.
 - **Weaknesses:** The success of _CeeDee(z) Nutz_ will hinge on whether their stars can stay healthy and produce consistently. Depth could become an issue if any of their key players miss time.
 
 **London Pugs**:
 
 - **Key Players:** Justin Jefferson, DJ Moore, Josh Jacobs
-- **Strengths:** ![London Pugs Logo](/bspn-site/assets/images/team-logos/londonpugs.svg){: .teamlogo } _London Pugs_ brings a balanced approach with a strong receiving corps led by Justin Jefferson. Josh Jacobs provides stability in the backfield, making this team well-rounded and capable of attacking in multiple ways.
+- **Strengths:** ![London Pugs Logo](/bspndotcom/assets/images/team-logos/londonpugs.svg){: .teamlogo } _London Pugs_ brings a balanced approach with a strong receiving corps led by Justin Jefferson. Josh Jacobs provides stability in the backfield, making this team well-rounded and capable of attacking in multiple ways.
 - **Weaknesses:** The biggest question mark for _London Pugs_ is at quarterback. If their QB can deliver solid performances, this team will be tough to beat; if not, they might struggle to keep pace with high-scoring opponents.
 
 ### **Mandy's Prediction**
@@ -50,5 +50,5 @@ Don’t miss this exciting matchup, and tune in to BSPN for all the analysis and
 
 ---
 
-![Mandy Greenberg](/bspn-site/assets/images/contributors/mandy_greenberg.webp){: .headshot }
+![Mandy Greenberg](/bspndotcom/assets/images/contributors/mandy_greenberg.webp){: .headshot }
 _Written by Mandy Greenberg, BSPN Senior Analyst._

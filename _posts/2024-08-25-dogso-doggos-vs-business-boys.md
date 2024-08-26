@@ -48,5 +48,5 @@ For _DOGSO Doggos_, they need to lean on Nick Chubb to control the tempo. _busin
 
 ---
 
-![Chirpy Chip Taylor](/bspn-site/assets/images/contributors/chip_taylor.webp){: .headshot }
+![Chirpy Chip Taylor](/bspndotcom/assets/images/contributors/chip_taylor.webp){: .headshot }
 _Written by Chirpy Chip Taylor, BSPN Senior Analyst._

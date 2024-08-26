@@ -17,20 +17,20 @@ excerpt: "Big Tony Rodriguez breaks down the Week 1 matchup between *Jacob's Sca
 
 ### **Matchup Overview**
 
-Week 1 sees _![Jacob's Scary Team Logo](/bspn-site/assets/images/team-logos/jacobs.svg){: .teamlogo } Jacob's Scary Team_ face off against _![Tony Roma’s Logo](/bspn-site/assets/images/team-logos/tonyroma.svg){: .teamlogo } Tony Roma’s_ in a matchup that could go either way. With star players ready to make an impact, this game promises to be a heavyweight bout right out of the gate.
+Week 1 sees _![Jacob's Scary Team Logo](/bspndotcom/assets/images/team-logos/jacobs.svg){: .teamlogo } Jacob's Scary Team_ face off against _![Tony Roma’s Logo](/bspndotcom/assets/images/team-logos/tonyroma.svg){: .teamlogo } Tony Roma’s_ in a matchup that could go either way. With star players ready to make an impact, this game promises to be a heavyweight bout right out of the gate.
 
 ### **Team Breakdown**
 
 **Jacob's Scary Team**:
 
 - **Key Players:** Jahmyr Gibbs, Marvin Harrison Jr., David Montgomery
-- **Strengths:** _![Jacob's Scary Team Logo](/bspn-site/assets/images/team-logos/jacobs.svg){: .teamlogo } Jacob's Scary Team_ brings a mix of explosive talent and reliability. Jahmyr Gibbs is a dynamic playmaker, while Marvin Harrison Jr. offers a steady, high-floor option. David Montgomery rounds out the offense with his powerful running style.
+- **Strengths:** _![Jacob's Scary Team Logo](/bspndotcom/assets/images/team-logos/jacobs.svg){: .teamlogo } Jacob's Scary Team_ brings a mix of explosive talent and reliability. Jahmyr Gibbs is a dynamic playmaker, while Marvin Harrison Jr. offers a steady, high-floor option. David Montgomery rounds out the offense with his powerful running style.
 - **Weaknesses:** The depth is somewhat lacking, particularly if one of their stars underperforms. Montgomery’s workload could be a concern over the course of the season.
 
 **Tony Roma’s**:
 
 - **Key Players:** A.J. Brown, DK Metcalf, Najee Harris
-- **Strengths:** _![Tony Roma’s Logo](/bspn-site/assets/images/team-logos/tonyroma.svg){: .teamlogo } Tony Roma’s_ boasts one of the most intimidating receiving duos in the league. A.J. Brown and DK Metcalf are both capable of taking over a game, while Najee Harris provides a strong presence in the backfield.
+- **Strengths:** _![Tony Roma’s Logo](/bspndotcom/assets/images/team-logos/tonyroma.svg){: .teamlogo } Tony Roma’s_ boasts one of the most intimidating receiving duos in the league. A.J. Brown and DK Metcalf are both capable of taking over a game, while Najee Harris provides a strong presence in the backfield.
 - **Weaknesses:** Consistency at the quarterback position could be an issue. If they don’t get solid play under center, their receivers might not see enough quality targets.
 
 ### **Tony's Prediction**
@@ -48,5 +48,5 @@ For _Jacob's Scary Team_, controlling the clock with Montgomery and keeping thei
 
 ---
 
-![Big Tony Rodriguez](/bspn-site/assets/images/contributors/tony_rodriguez.webp){: .headshot }
+![Big Tony Rodriguez](/bspndotcom/assets/images/contributors/tony_rodriguez.webp){: .headshot }
 _Written by "Big Tony" Rodriguez, BSPN Senior Analyst._

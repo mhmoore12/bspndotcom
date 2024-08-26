@@ -48,5 +48,5 @@ For _BBL Bread_, the key is sticking to their game plan and not letting _Oops Al
 
 ---
 
-![Blaze Johnson](/bspn-site/assets/images/contributors/blaze_johnson.webp){: .headshot }
+![Blaze Johnson](/bspndotcom/assets/images/contributors/blaze_johnson.webp){: .headshot }
 _Written by Blaze Johnson, BSPN Senior Analyst._

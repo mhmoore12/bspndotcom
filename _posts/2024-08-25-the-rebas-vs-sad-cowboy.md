@@ -48,5 +48,5 @@ For _The Rebas_, getting Tyreek Hill involved early is crucial. _Sad Cowboy_ nee
 
 ---
 
-![Rusty Picklehorn](/bspn-site/assets/images/contributors/rusty_picklehorn.webp){: .headshot }
+![Rusty Picklehorn](/bspndotcom/assets/images/contributors/rusty_picklehorn.webp){: .headshot }
 _Written by Rusty Picklehorn, BSPN Senior Analyst._

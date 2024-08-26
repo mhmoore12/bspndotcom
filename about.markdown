@@ -11,7 +11,7 @@ permalink: /about/
     <h2>Meet Our Team</h2>
 
     <div class="contributor">
-        <img src="/bspn-site/assets/images/contributors/rusty_picklehorn.webp" alt="Rusty Picklehorn" class="headshot">
+        <img src="/bspndotcom/assets/images/contributors/rusty_picklehorn.webp" alt="Rusty Picklehorn" class="headshot">
         <div class="contributor-info">
             <h3>Rusty Picklehorn</h3>
             <p><strong>Role:</strong> Senior Bug Analyst</p>
@@ -20,7 +20,7 @@ permalink: /about/
     </div>
 
     <div class="contributor">
-        <img src="/bspn-site/assets/images/contributors/mandy_greenberg.webp" alt="Mandy Greenberg" class="headshot">
+        <img src="/bspndotcom/assets/images/contributors/mandy_greenberg.webp" alt="Mandy Greenberg" class="headshot">
         <div class="contributor-info">
             <h3>Mandy Greenberg</h3>
             <p><strong>Role:</strong> Senior Analyst</p>
@@ -29,7 +29,7 @@ permalink: /about/
     </div>
 
     <div class="contributor">
-        <img src="/bspn-site/assets/images/contributors/blaze_johnson.webp" alt="Blaze Johnson" class="headshot">
+        <img src="/bspndotcom/assets/images/contributors/blaze_johnson.webp" alt="Blaze Johnson" class="headshot">
         <div class="contributor-info">
             <h3>Blaze Johnson</h3>
             <p><strong>Role:</strong> Lead Sports Reporter</p>
@@ -38,7 +38,7 @@ permalink: /about/
     </div>
 
     <div class="contributor">
-        <img src="/bspn-site/assets/images/contributors/chip_taylor.webp" alt="Chirpy Chip Taylor" class="headshot">
+        <img src="/bspndotcom/assets/images/contributors/chip_taylor.webp" alt="Chirpy Chip Taylor" class="headshot">
         <div class="contributor-info">
             <h3>Chirpy Chip Taylor</h3>
             <p><strong>Role:</strong> Sideline Reporter</p>
@@ -47,7 +47,7 @@ permalink: /about/
     </div>
 
     <div class="contributor">
-        <img src="/bspn-site/assets/images/contributors/vinny_dimarco.webp" alt="Vinny 'The Voice' DiMarco" class="headshot">
+        <img src="/bspndotcom/assets/images/contributors/vinny_dimarco.webp" alt="Vinny 'The Voice' DiMarco" class="headshot">
         <div class="contributor-info">
             <h3>Vinny "The Voice" DiMarco</h3>
             <p><strong>Role:</strong> Play-by-Play Commentator</p>
@@ -56,7 +56,7 @@ permalink: /about/
     </div>
 
     <div class="contributor">
-        <img src="/bspn-site/assets/images/contributors/samantha_rivers.webp" alt="Samantha 'Sam' Rivers" class="headshot">
+        <img src="/bspndotcom/assets/images/contributors/samantha_rivers.webp" alt="Samantha 'Sam' Rivers" class="headshot">
         <div class="contributor-info">
             <h3>Samantha "Sam" Rivers</h3>
             <p><strong>Role:</strong> Sideline Reporter</p>
@@ -65,7 +65,7 @@ permalink: /about/
     </div>
 
     <div class="contributor">
-        <img src="/bspn-site/assets/images/contributors/tony_rodriguez.webp" alt="Big Tony Rodriguez" class="headshot">
+        <img src="/bspndotcom/assets/images/contributors/tony_rodriguez.webp" alt="Big Tony Rodriguez" class="headshot">
         <div class="contributor-info">
             <h3>"Big Tony" Rodriguez</h3>
             <p><strong>Role:</strong> Senior Analyst</p>
